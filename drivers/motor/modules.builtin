@@ -1,0 +1,4 @@
+kernel/drivers/motor/cs40l2x.ko
+kernel/drivers/motor/cs40l2x-tables.ko
+kernel/drivers/motor/max77705_haptic.ko
+kernel/drivers/motor/sec_haptic.ko

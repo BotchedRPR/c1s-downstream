@@ -1,0 +1,3 @@
+kernel/drivers/video/fbdev/exynos/panel/s6e3fa9/s6e3fa9.ko
+kernel/drivers/video/fbdev/exynos/panel/s6e3fa9/s6e3fa9_aod.ko
+kernel/drivers/video/fbdev/exynos/panel/s6e3fa9/s6e3fa9_profiler.ko
